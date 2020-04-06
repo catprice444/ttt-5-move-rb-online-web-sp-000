@@ -6,6 +6,6 @@ puts display_board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Where would you like to go?"
 input_to_index=gets.strip
 
-move(display_board, input_to_index)
+move(board, input_to_index)
 
 # Code your CLI Here
