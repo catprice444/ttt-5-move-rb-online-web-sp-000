@@ -5,6 +5,6 @@ puts "Welcome to Tic Tac Toe!"
 puts board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 puts "Where would you like to go?"
 input=gets.strip
-move = board, input, a_value
+move= board, input, a_value
 
 # Code your CLI Here
